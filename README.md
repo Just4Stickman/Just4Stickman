@@ -148,7 +148,7 @@
 │                                            │
 │  $ open github                             │
 │                                            │
-│  GitHub   github.com/blvfvuz5              │
+│  GitHub   github.com/Just4Stickman              │
 │  Status   ● online                         │
 │  Mode     building                         │
 │                                            │
