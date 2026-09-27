@@ -33,15 +33,15 @@
 ╰──────────────────────────────────────────────────────────────╯
 </pre>
 
-<a href="https://github.com/blvfvuz5">
-<img src="https://img.shields.io/github/followers/blvfvuz5?label=Followers&style=flat-square" />
+<a href="https://github.com/Just4Stickman">
+<img src="https://img.shields.io/github/followers/Just4Stickman?label=Followers&style=flat-square" />
 </a>
 &nbsp;
 <a href="https://github.com/blvfvuz5?tab=repositories">
-<img src="https://img.shields.io/github/stars/blvfvuz5?affiliations=OWNER&style=flat-square&label=Stars" />
+<img src="https://img.shields.io/github/stars/Just4Stickman?affiliations=OWNER&style=flat-square&label=Stars" />
 </a>
 &nbsp;
-<a href="https://github.com/blvfvuz5?tab=repositories">
+<a href="https://github.com/Just4Stickman?tab=repositories">
 <img src="https://img.shields.io/badge/Public%20Repos-View%20Repositories-161b22?style=flat-square&logo=github&logoColor=white" />
 </a>
 
@@ -155,7 +155,7 @@
 ╰────────────────────────────────────────────╯
 </pre>
 
-<a href="https://github.com/blvfvuz5?tab=repositories">
+<a href="https://github.com/Just4Stickman?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20my%20repositories-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -200,7 +200,7 @@
 ╰──────────────────────────────────────────────────────────────╯
 </pre>
 
-<a href="https://github.com/blvfvuz5?tab=repositories">
+<a href="https://github.com/Just4Stickman?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20my%20work-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
