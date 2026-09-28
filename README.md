@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/github/followers/Just4Stickman?label=Followers&style=flat-square" />
 </a>
 &nbsp;
-<a href="https://github.com/blvfvuz5?tab=repositories">
+<a href="https://github.com/Just4Stickman?tab=repositories">
 <img src="https://img.shields.io/github/stars/Just4Stickman?affiliations=OWNER&style=flat-square&label=Stars" />
 </a>
 &nbsp;
